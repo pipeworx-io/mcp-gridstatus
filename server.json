@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/gridstatus",
   "title": "Gridstatus",
   "description": "GridStatus MCP — wraps the GridStatus.io REST API (api.gridstatus.io/v1)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/gridstatus",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-gridstatus",

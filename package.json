@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-gridstatus",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "GridStatus MCP — wraps the GridStatus.io REST API (api.gridstatus.io/v1)",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-064163d80e119d05c4ae25edbf30032637d1577705d901ee93940e5b8c54443d",
+    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
   }
 }
