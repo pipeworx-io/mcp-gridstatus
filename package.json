@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-gridstatus",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "GridStatus MCP — wraps the GridStatus.io REST API (api.gridstatus.io/v1)",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "gridstatus",
     "gatewaySlug": "gridstatus",
-    "sourceHash": "v1-64371eedd666bfa2c3ab71e2883384e0377daa49ad9a5cc223ea41a347ab83f5",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-23419988f09fccf1e5cfbcb67451bd952da6c541213f8b06fe8a68031b2eb454",
+    "sourceCommit": "0ca9712c0ac03bb0121cc7e81b202d0c45ac02ca"
   }
 }
